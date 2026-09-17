@@ -1,6 +1,7 @@
 <h3 style="font-size: 1.5em; font-weight: bold;">🚀 About Me</h3>
 
 - 🎓 **Kyunghee University** Department of Software Convergence '23
+- CS student passionate about Cloud Engineering.
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
