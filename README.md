@@ -2,13 +2,13 @@
 
 - 🎓 **Kyunghee University** Department of Software Convergence '23
 
-<br />
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 🏆 Experience & Certification
 
 - 📜 **LG Aimers 9기** 수료
 
-<br />
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 📫 Contact
 
