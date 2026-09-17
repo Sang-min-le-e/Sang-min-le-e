@@ -1,16 +1,6 @@
-# 👋 안녕하세요! 
-
-<p align="left">
-  <!-- 본인의 GitHub username으로 '본인아이디' 변경 -->
-  <img src="https://komarev.com/ghpvc/?username=본인아이디&label=Profile%20views&color=0e75b6&style=flat" alt="방문자 수" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 **Kyunghee University** Department of Software Convergence '23
-- 🌱 끊임없이 새로운 기술을 배우고 성장하는 개발자입니다.
 
 <br />
 
@@ -28,7 +18,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### DevOps & Environments
+### Cloud & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
