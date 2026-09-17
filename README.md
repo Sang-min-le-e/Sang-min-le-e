@@ -23,21 +23,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<br />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- '본인아이디' 부분을 본인의 GitHub 아이디로 변경해주세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인아이디&theme=tokyonight&hide_border=true" width="97%" />
-</p>
-
-<br />
 
 ## 📫 Contact
 
