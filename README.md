@@ -1,17 +1,14 @@
 ## 🚀 About Me
-
 - 🎓 **Kyunghee University** Department of Software Convergence '23
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 🏆 Experience & Certification
-
 - 📜 **LG Aimers 9기** 수료
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 🛠️ Tech Stack
-
 ### Languages & Frameworks
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +23,5 @@
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
 ## 📫 Contact
-
 - 🟢 **Naver Mail:** [sangmin351212@naver.com](mailto:sangmin351212@naver.com)
 - 🔴 **Gmail:** [sangmin351212@khu.ac.kr](mailto:sangmin351212@khu.ac.kr)
