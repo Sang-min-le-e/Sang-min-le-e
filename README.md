@@ -7,7 +7,8 @@
 
 <h3 style="font-size: 1.5em; font-weight: bold;">🏆 Experience & Certification</h3>
 
-- 📜 **LG Aimers 9기** 수료
+- 📜 **LG Aimers 9기** 수료 (26.6.22 ~ 26.9.2)
+- **차오름 수학과학학원 고등/중등 과학 강사 (2023.01 ~ )
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
