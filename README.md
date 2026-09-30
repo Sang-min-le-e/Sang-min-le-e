@@ -31,4 +31,4 @@
 <h3 style="font-size: 1.5em; font-weight: bold;">📫 Contact</h3>
 
 - 🟢 **Naver Mail:** [sangmin351212@naver.com](mailto:sangmin351212@naver.com)
-- 🔴 **Gmail:** [sangmin351212@khu.ac.kr](mailto:sangmin351212@khu.ac.kr)
+- 🔴 **School mail:** [sangmin351212@khu.ac.kr](mailto:sangmin351212@khu.ac.kr)
