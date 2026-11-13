@@ -1,7 +1,33 @@
-# 이상민
+<h3 style="font-size: 1.5em; font-weight: bold;">🚀 About Me</h3>
 
-[![My Compiled Datacenter](assets/datacenter.png)](https://sang-min-le-e.github.io/)
+- 🎓 **Kyunghee University** Department of Software Convergence '23
+- ☁️ CS student passionate about **Cloud Engineering**.
 
-제가 공부 기록과 경험한 프로젝트를 담은 데이터센터처럼 꾸민 홈페이지 입니다.
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
-**[사이트 둘러보기](https://sang-min-le-e.github.io/)** · **[Profile](https://sang-min-le-e.github.io/#/profile)**
+<h3 style="font-size: 1.5em; font-weight: bold;">🏆 Experience & Certification</h3>
+
+- ![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) **NAVER Cloud Platform Certified Associate (NCA)** (2026.11.06)
+- ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) **LG Aimers 9기** 수료 (26.6.22 ~ 26.9.2)
+- **차오름 수학과학학원** 고등/중등 과학 강사 (2023.01 ~ 2024.05, 2026.01 ~ )
+
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
+
+<h3 style="font-size: 1.5em; font-weight: bold;">🛠️ Tech Stack</h3>
+
+#### Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Infrastructure & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
+
+<h3 style="font-size: 1.5em; font-weight: bold;">📫 Contact</h3>
+
+- 🟢 **Naver Mail:** [sangmin351212@naver.com](mailto:sangmin351212@naver.com)
+- 🔴 **School mail:** [sangmin351212@khu.ac.kr](mailto:sangmin351212@khu.ac.kr)
