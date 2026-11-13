@@ -21,9 +21,14 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Infrastructure & Cloud
+#### Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white)
+![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
@@ -31,3 +36,4 @@
 
 - 🟢 **Naver Mail:** [sangmin351212@naver.com](mailto:sangmin351212@naver.com)
 - 🔴 **School mail:** [sangmin351212@khu.ac.kr](mailto:sangmin351212@khu.ac.kr)
+- 📝 **Velog:** [velog.io/@sangm1n___](https://velog.io/@sangm1n___/posts)
