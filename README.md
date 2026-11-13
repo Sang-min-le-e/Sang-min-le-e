@@ -16,7 +16,7 @@
 <h3 style="font-size: 1.5em; font-weight: bold;">🛠️ Tech Stack</h3>
 
 #### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=cpp,py,dart,flutter" alt="C++, Python, Dart, Flutter" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> <img src="https://skillicons.dev/icons?i=py,dart,flutter&theme=light" alt="Python, Dart, Flutter" />
 
 #### Infrastructure
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" alt="Linux, Docker, Kubernetes" />
