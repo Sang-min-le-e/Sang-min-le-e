@@ -16,19 +16,13 @@
 <h3 style="font-size: 1.5em; font-weight: bold;">🛠️ Tech Stack</h3>
 
 #### Languages & Frameworks
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,py,dart,flutter" alt="C++, Python, Dart, Flutter" />
 
 #### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" alt="Linux, Docker, Kubernetes" />
 
 #### Cloud
-![AWS](assets/aws.svg)
-![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> <img src="assets/ncloud.svg" width="48" height="48" alt="NAVER Cloud" title="NAVER Cloud" />
 
 <hr style="height: 4px; background-color: #3776AB; border: none; margin: 30px 0;" />
 
