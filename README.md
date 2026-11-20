@@ -8,6 +8,7 @@
 <h3 style="font-size: 1.5em; font-weight: bold;">🏆 Experience & Certification</h3>
 
 - ![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) **NAVER Cloud Platform Certified Associate (NCA)** (2026.11.06)
+- ![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) 경희대학교 네이버클라우드 아카데미 클라우드 Literacy 과정 수료 (최우수 수료생 시상) (2026.09.11 ~ 2026.10.30)
 - ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) **LG Aimers 9기** 수료 (26.6.22 ~ 26.9.2)
 - **차오름 수학과학학원** 고등/중등 과학 강사 (2023.01 ~ 2024.05, 2026.01 ~ )
 
